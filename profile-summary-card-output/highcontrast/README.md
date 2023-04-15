@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ragingo/ragingo/master/profile-summary-card-output/highcontrast/4-productive-time.svg)
-```
-
-    
